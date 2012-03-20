@@ -5,4 +5,4 @@
 
 ### http://guides.spreecommerce.com/view_customization.html
 ### http://github.com/railsdog/deface
-### http://warsawrb.org
+### * http://deface.heroku.com/
