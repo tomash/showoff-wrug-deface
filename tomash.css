@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'IM Fell DW Pica';
+  font-style: normal;
+  font-weight: normal;
+  src: local('IM Fell DW Pica'), url('http://themes.googleusercontent.com/font?kit=W81bfaWiUicLSPbJhW-ATrnZKA4kQkVOJ75DZxM4aA8') format('truetype');
+}
+
+body, #preso, .slide
+{
+  font-family: "IM Fell DW Pica";
+}
+
+.code h1, .code h2, .code h3 
+{
+  font-family: "IM Fell DW Pica";
+}
+
+
+.left-img img
+{
+  float: left;
+}
+
+.title-slide h4 {
+  text-align: right;
+}
+
+.title-slide h5 {
+  text-align: right;
+}
+
+pre {
+  font-size: 1.8em;
+}
+
+.topped {
+  margin-top: 100px;
+}
+
+.footnote {
+  text-align: right;
+  font-size: 2em;
+}
+
+div.code code {
+  font-size: 24px;
+}
